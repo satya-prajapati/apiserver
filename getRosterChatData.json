@@ -1,0 +1,67 @@
+{
+  "response": "Success",
+  "rosterChatData": [
+    {
+      "vStatus": "",
+      "vMessage": "",
+      "vRosterId": "-2147261282",
+      "vRosterDate": "February 14, 2022",
+      "vServerDatetime": "2022-02-15T17:55:03",
+      "vLastSyncTimestamp": "2022-02-15T17:55:03",
+      "vEmpCode": "47400",
+      "vEmpName": "Raju Gupta",
+      "rosterChatMessageListData": [
+        {
+          "vMessageId": "1",
+          "vEmpCode": "47400",
+          "vEmpName": "Raju Gupta",
+          "vMessageType": "Employee",
+          "vMessage": "How r u, team?",
+          "vMessageServerInsertTime": "2022-02-15T17:55:03",
+          "vMessageSentTime": "2022-02-15T17:55:03",
+          "vMessageStatus": "Deliverd"
+        },
+        {
+          "vMessageId": "2",
+          "vEmpCode": "47400",
+          "vEmpName": "Raju Gupta",
+          "vMessageType": "Employee",
+          "vMessage": "How r u, team?",
+          "vMessageServerInsertTime": "2022-02-15T17:55:03",
+          "vMessageSentTime": "2022-02-15T17:55:03",
+          "vMessageStatus": "Deliverd"
+        },
+        {
+          "vMessageId": "3",
+          "vEmpCode": "98159",
+          "vEmpName": "Satyadev Prajapati",
+          "vMessageType": "Employee",
+          "vMessage": "How r u, team?",
+          "vMessageServerInsertTime": "2022-02-15T17:55:03",
+          "vMessageSentTime": "2022-02-15T17:55:03",
+          "vMessageStatus": "Deliverd"
+        },
+        {
+          "vMessageId": "4",
+          "vEmpCode": "11111",
+          "vEmpName": "Admin Info",
+          "vMessageType": "Admin",
+          "vMessage": "How r u, team?",
+          "vMessageServerInsertTime": "2022-02-15T17:55:03",
+          "vMessageSentTime": "2022-02-15T17:55:03",
+          "vMessageStatus": "Diliverd"
+        },
+        {
+          "vMessageId": "5",
+          "vEmpCode": "11111",
+          "vEmpName": "System Info",
+          "vMessageType": "System",
+          "vMessage": "How r u, team?",
+          "vMessageServerInsertTime": "2022-02-15T17:55:03",
+          "vMessageSentTime": "2022-02-15T17:55:03",
+          "vMessageStatus": "Diliverd"
+        }
+      ]
+    }
+  ]
+}
